@@ -1,3 +1,6 @@
 # Hackaton---raisny
-ide:
-membuat sebuah website yang akan menjelaskan tentang iklim dan ada linknya
+ide:Eco-calculator
+bahan:
+- HTML + CSS
+- Flask templat
+ - Jinja variabel
