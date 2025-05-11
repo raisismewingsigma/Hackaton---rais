@@ -1,6 +1,7 @@
-# Hackaton---raisny
-ide:Eco-calculator
+# Hackaton---rais
+ide:climate bot
 bahan:
-- HTML + CSS
-- Flask templat
- - Jinja variabel
+-discord.py
+-pipenv
+-semua library yang pas di proyek bot yang bisa ngeliatin gambar
+-scratch project
