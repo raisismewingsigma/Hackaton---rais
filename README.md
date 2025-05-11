@@ -3,5 +3,5 @@ ide:climate bot
 bahan:
 -discord.py
 -pipenv
--semua library yang pas di proyek bot yang bisa ngeliatin gambar
+-semua library yang pas di proyek bot yang bisa ngeliatin gambar/gk usah
 -scratch project
