@@ -1,0 +1,4 @@
+0 semi
+1 dingin
+2 panas
+3 gugur
